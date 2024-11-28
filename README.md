@@ -1,3 +1,10 @@
 # Flight-Fare-Predication-and-Analysis
 
-## Developed a machine learning model to predict flight prices using a diverse range of features, including airline, source, destination, and duration. • Collected and pre-processed data using PySpark on Azure Databricks, ensuring data quality by handling missing values, duplicates, and outliers. • Implemented data visualization using MatPlotLib and seaborn to explore relationships between features and prices, identifying key factors influencing flight costs. • Trained multiple machine learning algorithms including K-Nearest Neighbors, Decision Tree, and Random Forest Regressor with Random Forest achieving the highest accuracy with an R² score of 96.08% after hyperparameter tuning.
+##• Developed a flight price prediction model using Random Forest Regressor, K-Nearest Neighbors, and Decision Tree Regressor, 
+achieving a high R² score of 96.08% after performing hyperparameter tuning.  
+##• Streamlined data preprocessing by implementing automated scripts for data cleaning and encoding, increasing data processing 
+capacity by 200% while maintaining high accuracy.  
+##• Conducted Exploratory Data Analysis (EDA) to explore relationships between features and flight prices, utilizing Seaborn for 
+visualizing correlations and trends in the data.  
+##• Conducted systematic adjustments in hyperparameters using RandomizedSearchCV on the Random Forest algorithm; achieved a 
+reduction of Mean Absolute Error (MAE) by 15 units while improving model reliability in predictions across datasets. 
